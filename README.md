@@ -38,7 +38,24 @@
 ## 🏅 Certifications  
 - **Azure AZ-900 (Expected 2025)** - Microsoft
 - **Salesforce Certified Business Analyst (Expected 2026)** - Salesforce
-   
+
+---
+
+## 💼Projects
+
+Below you will find six of my favorite projects. 
+
+- **Handcrafted Haven**: It's a complete web application featuring; authentication using OAuth, RESTful operations using PostgreSQL, and the app is built using React and Tailwind CSS. This is a collaborative project deployed in Vercel implementing a CI/CD Pipeline.
+  
+- **GamePedia_API**: Demonstrates the abbility to create APIs performing all CRUD operations, the app is built using Express.js, we used passport for authentication, and relies on Swagger for documentation. The app connects to a MongoDB database which demonstrates the abbility to work with NoSQL databases.
+  
+- **ManageInventoryNET**: The app is built using .NET ASP Modern framwork Blazor. The project is a copy of the one found in AzureDevops, Azure was used as our version control and CI/CD pipeline where the project was originally hosted and deployed. The app allows a company to perform CRUD operations while communicating with an SQL database. It also features Blazor migrations, binding, and component based development.
+  
+- **Journal App**: Is a very simple app written with React Native, it's written using TypeScript and follows React best practices. The app communicates with the device's local storage which makes it a stateful application.
+  
+- **Duggys-integration**: It's an ongoing project for a family owned business, it's a display and contact page for customers. It communicates with a PostgreSQL database to fetch the menu options, it follows best practices for design and accessibility, built using React and Tailwind.
+  
+- **Pizza-chat**: This app is a simple order processing system. As a Server-to-Client application it communicates two applications using a TCP method to transmit a JSON file. The app is built using Python and Socket. Tkinter was used to create a simple GUI. 
 
 
 ## 🌟 Let’s Connect!  
