@@ -57,6 +57,11 @@ Below you will find six of my favorite projects.
   
 - **Pizza-chat**: This app is a simple order processing system. As a Server-to-Client application it communicates two applications using a TCP method to transmit a JSON file. The app is built using Python and Socket. Tkinter was used to create a simple GUI. 
 
+---
+
+## 📊 Stats
+
+[![galiciaabraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=galiciaabraham)](https://github.com/galiciaabraham/github-readme-stats)
 
 ## 🌟 Let’s Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/josue-a-galicia)  
