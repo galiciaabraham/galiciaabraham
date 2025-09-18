@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abraham Galicia  
 
-🎯 **Technical Support Engineer | Application Support Engineer | Customer Success Engineer**  
+🎯 **Technical Support Engineer | Application Support Engineer | Customer Success Engineer | Fullstack Developer**  
 💻 Passionate about solving technical problems, supporting SaaS platforms, and ensuring customer success.  
 
 ---
