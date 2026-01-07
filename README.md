@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Abraham Galicia  
 
-🎯 **Technical Support Engineer | Application Support Engineer | Customer Success Engineer | Fullstack Developer**  
+🎯 **Technical Support Engineer | Application Support Engineer | Solutions Engineer | Fullstack Developer**  
 💻 Passionate about solving technical problems, supporting SaaS platforms, and ensuring customer success.  
 
 ---
 
 ## 🚀 About Me  
 - 🌍 Based in **Mexico** | Open to remote & global roles  
-- 📚 Pursuing **B.S. Software Development** (BYU–Idaho, Expected 2026)  
+- 📚 Graduated **B.S. Software Development** (BYU–Idaho, 2025)  
 - 🗣️ Multilingual: **English | Spanish | Portuguese**  
 - 🔧 Background in **IT Service Desk**, **Application Support**, and **Full Stack Development**  
 
@@ -27,7 +27,7 @@
 ---
 
 ## 🎓 Education  
-- **B.S. Software Development (Expected 2026)** – BYU–Idaho  
+- **B.S. Software Development (2025)** – BYU–Idaho  
 - **A.A.S. Applied Technology (2025)** – BYU–Idaho  
 - **Certificate in Software Development (2025)** – BYU–Idaho
 - **Certificate in Web Development (2024)** – BYU–Idaho
@@ -36,7 +36,7 @@
 ---
 
 ## 🏅 Certifications  
-- **Azure AZ-900 (Expected 2025)** - Microsoft
+- **Azure AZ-900 (Expected 2026)** - Microsoft
 - **Salesforce Certified Business Analyst (Expected 2026)** - Salesforce
 
 ---
